@@ -63,14 +63,14 @@ body {
 .nav-underline .nav-link {
 padding-top: .75rem;
 padding-bottom: .75rem;
-font-size: 2rem;
+font-size: 1.5rem;
 color: #CC3300;
 text-decoration:underline
 }
 .nav-underline .nav-link2 {
 padding-top: .75rem;
 padding-bottom: .75rem;
-font-size: 2rem;
+font-size: 1.5rem;
 color: #CC3300;
 }
 .nav-underline .nav-link:hover {
